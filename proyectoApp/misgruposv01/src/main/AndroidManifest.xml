@@ -20,10 +20,9 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".AcercaDeActivity">
+        <activity android:name=".AcercaDeActivity"> </activity>
 
-        </activity>
-
+        <activity android:name=".Materia1"> </activity>
     </application>
 
 </manifest>
