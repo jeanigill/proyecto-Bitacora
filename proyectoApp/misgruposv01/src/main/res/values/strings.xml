@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mis Grupos v01</string>
+
+    <!-- Menu Principal  -->
+    <string name="boton_acerca_de">Acerca de</string>
+    <string name="boton_2">Boton de prueba</string>
+
+    <!-- Layout Acerca de -->
+    <string name="titulo_acerca_de">Mis Grupos</string>
+    <string name="etiqueta_version_acerca_de">Versión</string>
+    <string name="texto_version_acerca_de">1.0</string>
+</resources>
