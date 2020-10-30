@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Mis Grupos v01</string>
+    <string name="app_name">Bitacora</string>
 
     <!-- Menu Principal  -->
     <string name="boton_acerca_de">BITÁCORA</string>
@@ -13,4 +13,7 @@
     <string name="titulo_acerca_de">Mis Grupos</string>
     <string name="etiqueta_version_acerca_de">Versión</string>
     <string name="texto_version_acerca_de">1.0</string>
+    <string name="InformaticaI">Aktion 2</string>
+    <string name="hola">hola</string>
+    <string name="string_boton_2" />
 </resources>
